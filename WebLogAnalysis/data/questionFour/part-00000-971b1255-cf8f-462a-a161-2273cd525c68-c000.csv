@@ -1,0 +1,25 @@
+No of errors per thousand requests,Count
+GET /apple-touch-icon-precomposed.png HTTP/1.1,1
+GET /apple-touch-icon.png HTTP/1.1,1
+GET /sitemap_new.xml HTTP/1.1,1
+GET /contact.html HTTP/1.1,2
+GET /about.html HTTP/1.1,2
+GET /take_test.html HTTP/1.1,6
+GET /index.html HTTP/1.1,6
+GET /study.html HTTP/1.1,11
+GET /robots.txt HTTP/1.1,14
+GET / HTTP/1.1,17
+GET /images/certi.png HTTP/1.1,25
+GET /images/button_hover.png HTTP/1.1,27
+GET /images/index_06.jpg HTTP/1.1,33
+GET /images/button.png HTTP/1.1,33
+GET /images/index_05.jpg HTTP/1.1,33
+GET /images/index_04.jpg HTTP/1.1,33
+GET /images/rsz_bright-yellow-tick-md.png HTTP/1.1,37
+GET /style.css HTTP/1.1,37
+GET /images/elephant_rgb-TRANS_sm.png HTTP/1.1,37
+GET /images/spacer.gif HTTP/1.1,37
+GET /images/index_01.jpg HTTP/1.1,151
+GET /images/index_02.jpg HTTP/1.1,151
+GET /images/index_03.jpg HTTP/1.1,152
+GET /images/background.jpg HTTP/1.1,153
